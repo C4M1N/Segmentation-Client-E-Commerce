@@ -1,6 +1,6 @@
 # Modelisation-Scoring-API-Dashboard
 
-Résumé: Aider une équipe marketing à comprendre les différents types de consommateurs qui utilisent leur plateforme.<br />
+Résumé: Aider une équipe marketing à comprendre les différents types de clients qui utilisent leur plateforme.<br />
 Données: Constituées de 9 fichiers csv exportés d'une base de données. <br />(Comprenant l'ensemble de toutes les données disponibles de la plateforme).<br />
 Dataset Kaggle: <a href="https://www.kaggle.com/olistbr/brazilian-ecommerce" title="Brazilian e-commerce dataset" >https://www.kaggle.com/olistbr/brazilian-ecommerce</a>
 
