@@ -1,4 +1,4 @@
-# Modelisation-Scoring-API-Dashboard
+# Segmentation des clients d'une plateforme de e-commerce
 
 Résumé: Aider une équipe marketing à comprendre les différents types de clients qui utilisent leur plateforme.<br />
 Données: Constituées de 9 fichiers csv exportés d'une base de données. <br />(Comprenant l'ensemble de toutes les données disponibles de la plateforme).<br />
